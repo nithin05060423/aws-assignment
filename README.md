@@ -36,5 +36,17 @@ ps aux
 ## Learnings
 - AWS EC2
 - Linux
+
+- ## Bonus Task
+
+### Created Another Security Group
+
+As part of the bonus task, I created an additional AWS Security Group named **bonus-security-group**.
+
+**Configuration:**
+- SSH (Port 22)
+- HTTP (Port 80)
+
+This demonstrates the ability to create and configure AWS Security Groups for secure EC2 access.
 - Nginx
 - Git & GitHub
